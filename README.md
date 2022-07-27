@@ -11,10 +11,6 @@
 
 [![codewars](https://www.codewars.com/users/Zafros56/badges/large)](https://www.codewars.com/users/Zafros56) 
 
-### Contact me:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zafross)
-
-
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=github_dark) 
 
@@ -23,5 +19,3 @@
 
 ### Best repos:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
-
-![](https://komarev.com/ghpvc/?username=zafross)
