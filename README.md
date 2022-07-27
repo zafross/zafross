@@ -12,8 +12,13 @@
 ### Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zafross)
 
-### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=radical)
 
-### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact)
+<div>
+  ### Stats:
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=radical)
+</div>
+
+<div>
+  ### Languages:
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact)
+</div>
