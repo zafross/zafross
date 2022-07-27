@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Stats:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=github_dark) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
 [![codewars](https://www.codewars.com/users/Zafros56/badges/large)](https://www.codewars.com/users/Zafros56) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=github_dark)
