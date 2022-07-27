@@ -1,2 +1,1 @@
-<h1 align=center>Hi, I'm zafros</h1>
-<h2 align=center>Russian developer from Belarus</h2>
+<h1 align=center>Hi, I'm zafros<br>Russian developer from Belarus</h1>
