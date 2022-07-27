@@ -20,4 +20,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact)
 
 ### Repos:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafros&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq)
