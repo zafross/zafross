@@ -13,9 +13,11 @@
 
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=github_dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=github_dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
 
 ### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=github_dark)
+
 
 ### Best repos:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
+
