@@ -1,6 +1,6 @@
-<h1 align=center>Hi, I'm zafros<br>Russian 14 year old developer from Belarus</h1>
+<h1 align=center>🖐️ Hi, I'm zafros<br>Russian 14 year old developer from Belarus</h1>
 
-### My skills:
+## ⚡ My skills:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Stats:
+## 🏋️‍ Stats:
 [![codewars](https://www.codewars.com/users/Zafros56/badges/large)](https://www.codewars.com/users/Zafros56) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=github_dark)
