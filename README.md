@@ -9,15 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![codewars](https://www.codewars.com/users/Zafros56/badges/large)](https://www.codewars.com/users/Zafros56) 
-
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=github_dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=github_dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
-
-### Languages:
-
-
-### Best repos:
-
+[![codewars](https://www.codewars.com/users/Zafros56/badges/large)](https://www.codewars.com/users/Zafros56) 
