@@ -23,3 +23,5 @@
 
 ### Best repos:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
+
+![](https://komarev.com/ghpvc/?username=zafross)
