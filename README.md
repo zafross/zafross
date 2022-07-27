@@ -14,10 +14,10 @@
 
 
 ### Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=dracula) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=synthwave) 
 
 ### Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=synthwave)
 
 ### Repos:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=dracula)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=onedark)
