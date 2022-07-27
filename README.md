@@ -21,5 +21,5 @@
 ### Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=github_dark)
 
-### Repos:
+### Best repos:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zafross&repo=qwoq&theme=github_dark)
