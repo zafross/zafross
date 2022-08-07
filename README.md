@@ -10,8 +10,24 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🏋️‍ Stats:
-[![codewars](https://www.codewars.com/users/Zafros56/badges/large)](https://www.codewars.com/users/Zafros56) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zafross&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&layout=compact&theme=github_dark)
+<div align="center">
+  <img src="https://www.codewars.com/users/Zafros56/badges/large" alt="zafross - github stats">
+</div>
+<img align="left" width="430" height="auto" alt="zafross - github stats" src="https://github-readme-stats.vercel.app/api?username=zafross&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true">
+<img align="right" width="359" height="auto" alt="zafross - github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
+
+<p align="center">
+<img src="https://github.com/zafross/zafross/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+</p>
+<br>
+<br>
+<br>
+
+## :exclamation: Disclaimer
+                                                   TO BE USED FOR Education Purpose
+
+all tools may only be used for lawful purposes. Users take full responsibility for any action taken using the tool(s). The author declines all responsibility for damage caused by these tools offered on his page. If these terms do not suit you, do not use these tools.
+By using the tools you declare that you have taken cognizance of the terms of the MIT contract and my additions thereto.
+
 
