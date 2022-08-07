@@ -16,7 +16,7 @@
 </div>
 
 <div align="right">
-  <img src="https://www.codewars.com/users/Zafros56/badges/large" alt="zafross - github stats">
+  <img src="https://www.codewars.com/users/Zafros56/badges/small" alt="zafross - github stats">
   <img align="right" width="359" height="auto" alt="zafross - github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafross&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
 </div>
 
