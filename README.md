@@ -1,6 +1,6 @@
 <h1 align=center>🖐️ Hi, I'm zafros<br>Russian 14 year old developer from Belarus</h1>
 
-<div align="center" style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://media.giphy.com/media/7uDtQm2jKdS0VGLg46/giphy.gif" width="60%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
+<div align="center" style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://github.com/AeX03/AeX03/blob/main/picture/rep.gif" width="60%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
 
 
 
