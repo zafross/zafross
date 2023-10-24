@@ -1,4 +1,4 @@
-<h1 align=center>🖐️ Hi, I'm zafros<br>15 year old developer from Belarus</h1>
+<h1 align=center>🖐️ Hi, I'm zafros</h1>
 
 
 ## 🏋️‍ Stats:
